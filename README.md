@@ -4,7 +4,7 @@
 
 ## Running locally
 
-To run locally, start by installing the Node dependencies. 
+To run locally, start by installing the Node dependencies.
 
 ```bash
 npm install
@@ -22,6 +22,6 @@ For richer local development experience, refer to [Set up local development for 
 
 ## How it works
 
-This starter application uses Next.js and React Server Components. By default, all Next.js components are React Server Components, and as such, are handled by Azure Static Web Apps-managed backend functions. Read more about [Next.js support for Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/nextjs). 
+This starter application uses Next.js and React Server Components. By default, all Next.js components are React Server Components, and as such, are handled by Azure Static Web Apps-managed backend functions. Read more about [Next.js support for Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/nextjs).
 
-> **Note:** If you use the [Azure Static Web Apps CLI](https://docs.microsoft.com/azure/static-web-apps/local-development), copy the *staticwebapp.config.json* file to the *out* folder, and start the CLI from the *out* folder.
+> **Note:** If you use the [Azure Static Web Apps CLI](https://docs.microsoft.com/azure/static-web-apps/local-development), copy the _staticwebapp.config.json_ file to the _out_ folder, and start the CLI from the _out_ folder.
